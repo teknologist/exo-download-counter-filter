@@ -54,3 +54,7 @@ overlays/
 # Misc
 *.swp
 dependency-reduced-pom.xml
+
+downloads-counter.iws
+downloads-counter.iml
+downloads-counter.ipr
